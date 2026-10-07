@@ -1,2 +1,1 @@
-# Dynamic_Programming
-bhumikaagarwal09/Dynamic_Programming
+Dynamic Programming problems and solutions — continuously updated as I practice and learn.
